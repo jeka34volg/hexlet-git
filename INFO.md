@@ -1,3 +1,4 @@
 Git is awesome!
 experiment with amend
 new data
+other data
